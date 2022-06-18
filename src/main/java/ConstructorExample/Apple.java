@@ -29,9 +29,9 @@ public class Apple {
 
 	public static void main(String[] args) {
 		Apple a =new Apple(22082,25,"shashank");
-		//System.out.println("Studentid :"+a.student_id);
-		//System.out.println("Age       :"+a.age);
-		//System.out.println("Name      :"+a.name);
+		System.out.println("Studentid :"+a.student_id);
+		System.out.println("Age       :"+a.age);
+		System.out.println("Name      :"+a.name);
 	}
 
 }
